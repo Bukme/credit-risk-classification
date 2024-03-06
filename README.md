@@ -1,7 +1,7 @@
 # credit-risk-classification
 
-Credit Risk Analysis Report
-Overview
+## Credit Risk Analysis Report
+## Overview
 The purpose of this analysis is to build and evaluate a machine learning model for credit risk assessment. In this analysis, we utilized logistic regression to predict the likelihood of loan default based on various features provided in the lending dataset. The goal is to assist financial institutions in making informed decisions regarding loan approvals by accurately identifying high-risk loans.
 
 Results
